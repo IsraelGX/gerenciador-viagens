@@ -30,6 +30,6 @@ Nele existem vários problemas e más práticas para serem utilizadas como exemp
 
 Este projeto pertence a Antonio Montanha em colaboração com o Curso de Testes de API Rest com Julio de Lima, nele existem vários problemas e más práticas para serem utilizadas como exemplo do que não fazer. disponível no YouTube o curso conta com certificação por uma prova prática.
 
-## CERTIFICAÇÃO
+## CERTIFICAÇÃO http://165.227.93.41/cgitar/certificado.php?hash=cb43d8f77f568447950879a0c1e8be7d
 http://165.227.93.41/cgitar/certificado.php?hash=cb43d8f77f568447950879a0c1e8be7d
 
