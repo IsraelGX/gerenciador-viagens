@@ -26,6 +26,8 @@ docker logs gerenciador-viagens
 
 Nele existem vários problemas e más práticas para serem utilizadas como exemplo do que não fazer.
 
-## LICENÇA
+## LICENÇA/Creditos 
 
 Este projeto pertence a Antonio Montanha em colaboração com o Curso de Testes de API Rest com Julio de Lima, nele existem vários problemas e más práticas para serem utilizadas como exemplo do que não fazer. disponível no YouTube o curso conta com certificação por uma prova prática.
+
+
